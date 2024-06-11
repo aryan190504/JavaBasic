@@ -16,7 +16,5 @@ public class switchcase {
      }
      System.out.println("month is not available");
     
-     
-     
 	}
 }
